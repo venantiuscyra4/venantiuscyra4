@@ -50,17 +50,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=venantiuscyra4&show_icons=true&theme=transparent)
 
 
-<div align="center">
-  <h2> My Contributions </h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-
 <!--
 **venantiuscyra4/venantiuscyra4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
