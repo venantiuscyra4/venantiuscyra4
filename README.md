@@ -11,6 +11,8 @@
 <div align="center">
  
  🔭 I’m currently a student at **Imarticus PGDA**
+
+ 👩🏻‍🎓 Studied Mathematics and Computer Science at Jyoti Nivas College Autonomous, India
  
  🌱 I’m exploring **Docker, AWS and LLM**
 
@@ -32,7 +34,7 @@
 
  <hr/>
 
-<h2 align="center">⚒️ Languages Known ⚒️</h2>
+<h2 align="center">💻 Tech Build ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,r" />
@@ -41,6 +43,12 @@
 
 <br/>
 <hr/>
+
+ <h2> My Github Stats </h2>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=venantiuscyra4&show_icons=true&theme=transparent)
+
 
 <div align="center">
   <h2> My Contributions </h2>
