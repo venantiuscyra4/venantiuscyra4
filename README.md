@@ -1,9 +1,8 @@
-<img align="right" src="https://visitor-badge.laobi.icu/bage?page_id=venantiuscyra4.venantiuscyra4" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=venantiuscyra4.venantiuscyra4" />
 
 <h1 align="center">
-    <a href="https://readme-typing-svg.herokuapp.com/? 
-      font=TimesNewRoman&size=35&centere=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There;I'm+Venantius+Cyra;"/>
-    </h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Venantius+Cyra!;" />
+</h1>
 
 <!--
 **venantiuscyra4/venantiuscyra4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
