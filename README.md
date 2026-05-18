@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently a student at **Imarticus PGDA**
+ 🔭 Postgraduate Diploma in Data Science and Analytics at **Imarticus PGDA**
 
- 👩🏻‍🎓 Studied Mathematics and Computer Science at Jyoti Nivas College Autonomous, India
+ 👩🏻‍🎓 Studied Bachelor of Science in Mathematics and Computer Science at Jyoti Nivas College Autonomous, India
  
  🌱 I’m exploring **Docker, AWS and LLM**
 
